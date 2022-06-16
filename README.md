@@ -1,6 +1,6 @@
 ### Hi GitHub! ✌️
 
-I am Manuel, web and frontend developer from germany.
+I am Manuel, freelance web and frontend developer from germany.
 
 I mainly develop websites and landingpages for design agencies.  
 I try to use technically simple solutions, so I have as much time as possible to implement nice animations.
